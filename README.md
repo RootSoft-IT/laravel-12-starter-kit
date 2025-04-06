@@ -23,7 +23,7 @@ A Laravel 12 QuickStart Starter Kit
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/laravel-12-starter-kit.git
+git clone https://github.com/RootSoft-IT/laravel-12-starter-kit.git
 cd laravel-12-starter-kit
 
 # Install dependencies
@@ -37,7 +37,7 @@ php artisan app:init
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/laravel-12-starter-kit.git
+git clone https://github.com/RootSoft-IT/laravel-12-starter-kit.git
 cd laravel-12-starter-kit
 
 # Install dependencies
